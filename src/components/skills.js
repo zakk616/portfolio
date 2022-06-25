@@ -94,6 +94,9 @@ export default function Skills() {
           <div className="skill-icon col-sm-6 col-md-4 col-lg-2">
             <i className="col devicon-mysql-plain-wordmark colored"></i>
           </div>
+          <div className="skill-icon col-sm-6 col-md-4 col-lg-2">
+            <i className="col devicon-sqlite-plain-wordmark colored"></i>
+          </div>
         </div>
         <hr />
         <div className="row justify-content-center">
